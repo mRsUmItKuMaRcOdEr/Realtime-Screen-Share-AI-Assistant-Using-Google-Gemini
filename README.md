@@ -1,0 +1,2 @@
+# Realtime-Screen-Share-AI-Assistant-Using-Google-Gemini
+This project is a real-time AI-powered assistant that can see your screen, hear your voice, and respond intelligently using Google Gemini’s multimodal capabilities. It combines screen-sharing, audio streaming, WebSocket communication, and AI-driven voice responses to create an interactive assistant for live help, debugging, demos, and productivity.
