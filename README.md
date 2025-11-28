@@ -74,7 +74,7 @@ Start the WebSocket server:
 
 python main.py
 
-
+this is all requirmrnt this is needed
 This starts the backend on:
 
 ws://localhost:9083
