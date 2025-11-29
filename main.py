@@ -11,7 +11,7 @@ import google.generativeai as generative
 import wave
 
 # Load API key from environment bina load kiye bhi ho jyega 
-os.environ['GOOGLE_API_KEY'] = 'AIzaSyDn71JmujQgiwlLYBkJqCspTdV_iieqRnI'
+os.environ['GOOGLE_API_KEY'] = 'AIzaSyB9TEmDYMS1t7S5-mq9xj7F7nj-lP7reSs'
 generative.configure(api_key=os.environ['GOOGLE_API_KEY'])
 
 MODEL = "gemini-2.0-flash-exp"
